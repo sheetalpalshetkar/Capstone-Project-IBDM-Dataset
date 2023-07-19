@@ -1,0 +1,1751 @@
+Sno,Movie Name,Director1,Director2,Director3,Duration,Year,Ratings,Metascore
+1,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+2,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+4,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+6,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+7,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+9,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+10,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+11,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+12,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+13,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+14,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+15,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+16,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+17,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+19,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+20,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+21,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+22,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+23,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+24,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+25,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+26,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+27,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+29,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+30,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+31,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+32,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+33,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+34,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+35,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+36,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+37,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+38,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+39,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+40,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+41,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+42,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+43,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+44,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+45,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+47,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+48,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+49,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+50,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+51,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+52,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+53,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+54,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+55,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+56,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+57,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+58,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+59,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+60,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+61,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+62,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+63,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+64,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+65,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+66,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+67,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+68,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+69,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+70,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+71,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+72,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+73,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+74,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+75,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+76,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+77,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+78,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+79,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+80,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+81,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+82,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+83,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+84,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+85,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+86,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+87,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+88,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+89,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+90,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+91,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+92,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+93,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+94,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+95,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+96,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+97,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+98,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+99,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+100,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+101,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+102,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+103,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+104,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+105,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+106,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+107,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+108,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+109,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+110,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+111,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+112,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+113,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+114,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+115,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+116,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+117,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+118,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+119,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+120,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+121,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+122,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+123,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+124,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+125,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+126,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+127,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+128,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+129,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+130,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+131,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+132,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+133,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+134,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+135,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+136,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+137,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+138,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+139,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+140,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+141,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+142,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+143,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+144,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+145,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+146,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+147,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+148,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+149,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+150,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+151,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+152,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+153,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+154,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+155,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+156,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+157,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+158,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+159,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+160,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+161,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+162,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+163,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+164,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+165,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+166,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+167,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+168,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+169,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+170,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+171,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+172,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+173,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+174,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+175,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+176,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+177,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+178,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+179,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+180,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+181,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+182,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+183,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+184,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+185,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+186,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+187,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+188,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+189,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+190,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+191,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+192,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+193,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+194,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+195,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+196,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+197,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+198,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+199,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+200,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+201,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+202,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+203,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+204,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+205,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+206,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+207,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+208,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+209,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+210,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+211,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+212,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+213,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+214,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+215,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+216,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+217,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+218,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+219,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+220,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+221,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+222,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+223,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+224,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+225,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+226,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+227,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+228,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+229,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+230,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+231,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+232,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+233,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+234,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+235,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+236,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+237,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+238,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+239,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+240,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+241,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+242,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+243,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+244,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+245,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+246,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+247,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+248,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+249,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+250,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+251,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+252,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+253,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+254,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+255,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+256,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+257,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+258,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+259,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+260,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+261,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+262,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+263,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+264,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+265,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+266,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+267,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+268,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+269,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+270,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+271,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+272,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+273,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+274,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+275,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+276,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+277,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+278,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+279,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+280,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+281,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+282,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+283,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+284,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+285,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+286,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+287,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+288,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+289,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+290,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+291,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+292,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+293,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+294,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+295,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+296,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+297,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+298,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+299,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+300,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+301,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+302,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+303,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+304,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+305,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+306,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+307,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+308,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+309,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+310,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+311,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+312,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+313,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+314,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+315,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+316,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+317,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+318,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+319,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+320,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+321,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+322,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+323,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+324,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+325,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+326,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+327,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+328,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+329,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+330,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+331,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+332,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+333,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+334,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+335,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+336,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+337,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+338,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+339,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+340,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+341,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+342,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+343,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+344,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+345,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+346,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+347,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+348,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+349,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+350,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+351,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+352,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+353,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+354,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+355,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+356,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+357,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+358,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+359,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+360,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+361,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+362,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+363,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+364,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+365,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+366,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+367,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+368,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+369,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+370,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+371,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+372,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+373,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+374,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+375,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+376,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+377,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+378,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+379,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+380,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+381,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+382,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+383,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+384,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+385,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+386,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+387,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+388,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+389,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+390,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+391,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+392,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+393,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+394,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+395,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+396,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+397,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+398,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+399,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+400,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+401,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+402,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+403,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+404,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+405,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+406,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+407,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+408,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+409,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+410,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+411,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+412,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+413,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+414,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+415,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+416,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+417,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+418,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+419,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+420,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+421,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+422,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+423,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+424,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+425,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+426,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+427,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+428,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+429,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+430,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+431,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+432,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+433,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+434,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+435,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+436,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+437,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+438,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+439,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+440,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+441,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+442,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+443,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+444,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+445,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+446,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+447,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+448,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+449,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+450,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+451,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+452,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+453,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+454,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+455,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+456,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+457,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+458,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+459,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+460,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+461,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+462,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+463,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+464,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+465,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+466,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+467,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+468,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+469,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+470,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+471,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+472,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+473,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+474,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+475,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+476,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+477,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+478,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+479,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+480,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+481,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+482,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+483,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+484,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+485,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+486,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+487,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+488,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+489,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+490,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+491,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+492,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+493,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+494,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+495,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+496,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+497,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+498,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+499,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+500,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+501,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+502,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+503,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+504,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+505,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+506,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+507,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+508,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+509,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+510,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+511,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+512,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+513,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+514,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+515,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+516,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+517,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+518,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+519,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+520,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+521,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+522,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+523,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+524,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+525,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+526,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+527,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+528,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+529,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+530,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+531,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+532,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+533,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+534,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+535,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+536,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+537,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+538,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+539,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+540,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+541,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+542,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+543,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+544,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+545,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+546,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+547,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+548,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+549,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+550,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+551,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+552,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+553,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+554,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+555,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+556,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+557,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+558,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+559,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+560,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+561,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+562,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+563,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+564,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+565,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+566,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+567,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+568,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+569,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+570,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+571,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+572,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+573,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+574,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+575,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+576,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+577,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+578,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+579,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+580,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+581,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+582,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+583,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+584,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+585,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+586,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+587,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+588,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+589,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+590,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+591,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+592,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+593,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+594,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+595,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+596,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+597,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+598,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+599,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+600,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+601,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+602,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+603,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+604,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+605,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+606,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+607,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+608,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+609,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+610,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+611,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+612,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+613,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+614,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+615,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+616,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+617,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+618,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+619,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+620,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+621,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+622,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+623,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+624,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+625,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+626,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+627,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+628,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+629,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+630,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+631,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+632,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+633,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+634,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+635,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+636,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+637,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+638,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+639,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+640,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+641,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+642,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+643,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+644,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+645,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+646,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+647,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+648,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+649,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+650,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+651,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+652,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+653,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+654,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+655,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+656,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+657,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+658,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+659,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+660,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+661,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+662,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+663,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+664,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+665,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+666,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+667,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+668,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+669,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+670,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+671,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+672,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+673,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+674,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+675,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+676,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+677,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+678,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+679,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+680,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+681,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+682,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+683,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+684,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+685,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+686,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+687,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+688,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+689,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+690,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+691,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+692,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+693,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+694,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+695,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+696,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+697,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+698,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+699,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+700,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+701,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+702,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+703,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+704,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+705,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+706,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+707,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+708,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+709,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+710,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+711,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+712,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+713,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+714,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+715,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+716,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+717,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+718,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+719,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+720,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+721,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+722,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+723,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+724,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+725,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+726,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+727,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+728,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+729,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+730,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+731,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+732,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+733,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+734,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+735,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+736,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+737,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+738,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+739,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+740,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+741,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+742,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+743,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+744,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+745,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+746,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+747,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+748,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+749,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+750,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+751,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+752,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+753,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+754,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+755,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+756,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+757,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+758,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+759,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+760,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+761,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+762,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+763,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+764,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+765,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+766,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+767,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+768,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+769,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+770,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+771,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+772,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+773,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+774,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+775,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+776,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+777,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+778,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+779,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+780,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+781,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+782,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+783,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+784,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+785,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+786,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+787,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+788,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+789,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+790,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+791,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+792,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+793,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+794,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+795,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+796,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+797,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+798,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+799,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+800,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+801,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+802,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+803,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+804,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+805,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+806,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+807,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+808,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+809,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+810,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+811,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+812,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+813,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+814,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+815,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+816,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+817,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+818,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+819,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+820,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+821,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+822,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+823,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+824,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+825,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+826,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+827,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+828,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+829,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+830,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+831,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+832,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+833,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+834,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+835,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+836,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+837,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+838,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+839,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+840,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+841,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+842,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+843,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+844,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+845,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+846,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+847,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+848,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+849,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+850,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+851,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+852,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+853,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+854,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+855,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+856,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+857,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+858,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+859,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+860,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+861,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+862,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+863,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+864,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+865,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+866,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+867,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+868,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+869,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+870,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+871,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+872,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+873,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+874,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+875,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+876,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+877,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+878,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+879,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+880,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+881,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+882,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+883,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+884,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+885,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+886,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+887,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+888,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+889,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+890,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+891,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+892,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+893,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+894,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+895,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+896,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+897,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+898,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+899,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+900,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+901,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+902,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+903,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+904,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+905,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+906,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+907,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+908,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+909,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+910,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+911,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+912,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+913,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+914,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+915,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+916,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+917,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+918,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+919,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+920,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+921,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+922,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+923,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+924,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+925,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+926,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+927,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+928,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+929,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+930,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+931,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+932,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+933,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+934,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+935,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+936,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+937,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+938,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+939,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+940,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+941,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+942,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+943,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+944,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+945,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+946,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+947,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+948,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+949,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+950,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+951,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+952,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+953,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+954,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+955,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+956,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+957,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+958,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+959,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+960,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+961,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+962,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+963,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+964,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+965,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+966,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+967,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+968,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+969,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+970,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+971,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+972,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+973,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+974,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+975,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+976,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+977,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+978,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+979,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+980,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+981,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+982,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+983,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+984,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+985,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+986,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+987,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+988,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+989,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+990,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+991,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+992,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+993,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+994,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+995,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+996,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+997,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+998,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+999,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1000,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1001,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1002,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1003,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1004,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1005,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1006,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1007,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1008,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1009,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1010,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1011,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1012,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1013,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1014,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1015,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1016,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1017,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1018,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1019,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1020,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1021,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1022,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1023,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1024,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1025,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1026,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1027,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1028,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1029,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1030,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1031,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1032,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1033,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1034,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1035,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1036,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1037,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1038,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1039,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1040,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1041,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1042,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1043,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1044,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1045,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1046,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1047,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1048,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1049,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1050,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1051,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1052,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1053,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1054,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1055,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1056,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1057,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1058,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1059,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1060,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1061,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1062,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1063,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1064,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1065,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1066,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1067,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1068,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1069,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1070,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1071,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1072,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1073,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1074,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1075,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1076,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1077,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1078,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1079,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1080,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1081,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1082,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1083,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1084,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1085,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1086,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1087,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1088,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1089,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1090,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1091,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1092,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1093,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1094,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1095,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1096,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1097,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1098,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1099,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1100,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1101,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1102,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1103,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1104,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1105,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1106,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1107,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1108,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1109,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1110,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1111,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1112,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1113,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1114,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1115,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1116,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1117,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1118,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1119,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1120,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1121,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1122,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1123,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1124,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1125,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1126,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1127,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1128,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1129,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1130,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1131,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1132,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1133,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1134,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1135,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1136,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1137,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1138,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1139,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1140,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1141,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1142,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1143,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1144,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1145,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1146,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1147,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1148,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1149,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1150,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1151,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1152,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1153,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1154,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1155,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1156,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1157,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1158,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1159,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1160,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1161,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1162,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1163,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1164,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1165,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1166,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1167,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1168,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1169,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1170,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1171,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1172,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1173,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1174,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1175,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1176,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1177,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1178,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1179,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1180,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1181,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1182,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1183,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1184,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1185,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1186,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1187,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1188,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1189,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1190,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1191,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1192,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1193,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1194,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1195,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1196,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1197,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1198,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1199,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1200,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1201,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1202,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1203,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1204,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1205,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1206,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1207,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1208,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1209,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1210,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1211,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1212,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1213,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1214,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1215,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1216,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1217,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1218,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1219,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1220,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1221,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1222,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1223,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1224,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1225,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1226,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1227,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1228,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1229,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1230,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1231,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1232,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1233,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1234,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1235,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1236,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1237,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1238,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1239,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1240,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1241,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1242,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1243,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1244,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1245,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1246,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1247,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1248,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1249,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1250,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1251,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1252,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1253,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1254,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1255,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1256,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1257,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1258,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1259,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1260,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1261,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1262,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1263,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1264,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1265,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1266,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1267,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1268,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1269,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1270,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1271,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1272,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1273,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1274,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1275,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1276,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1277,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1278,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1279,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1280,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1281,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1282,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1283,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1284,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1285,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1286,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1287,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1288,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1289,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1290,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1291,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1292,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1293,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1294,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1295,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1296,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1297,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1298,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1299,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1300,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1301,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1302,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1303,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1304,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1305,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1306,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1307,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1308,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1309,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1310,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1311,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1312,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1313,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1314,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1315,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1316,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1317,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1318,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1319,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1320,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1321,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1322,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1323,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1324,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1325,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1326,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1327,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1328,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1329,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1330,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1331,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1332,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1333,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1334,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1335,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1336,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1337,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1338,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1339,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1340,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1341,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1342,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1343,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1344,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1345,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1346,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1347,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1348,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1349,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1350,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1351,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1352,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1353,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1354,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1355,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1356,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1357,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1358,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1359,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1360,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1361,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1362,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1363,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1364,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1365,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1366,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1367,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1368,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1369,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1370,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1371,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1372,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1373,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1374,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1375,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1376,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1377,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1378,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1379,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1380,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1381,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1382,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1383,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1384,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1385,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1386,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1387,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1388,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1389,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1390,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1391,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1392,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1393,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1394,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1395,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1396,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1397,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1398,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1399,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1400,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1401,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1402,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1403,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1404,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1405,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1406,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1407,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1408,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1409,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1410,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1411,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1412,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1413,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1414,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1415,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1416,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1417,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1418,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1419,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1420,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1421,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1422,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1423,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1424,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1425,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1426,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1427,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1428,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1429,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1430,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1431,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1432,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1433,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1434,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1435,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1436,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1437,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1438,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1439,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1440,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1441,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1442,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1443,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1444,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1445,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1446,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1447,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1448,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1449,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1450,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1451,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1452,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1453,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1454,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1455,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1456,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1457,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1458,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1459,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1460,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1461,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1462,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1463,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1464,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1465,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1466,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1467,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1468,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1469,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1470,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1471,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1472,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1473,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1474,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1475,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1476,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1477,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1478,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1479,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1480,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1481,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1482,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1483,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1484,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1485,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1486,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1487,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1488,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1489,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1490,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1491,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1492,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1493,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1494,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1495,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1496,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1497,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1498,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1499,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1500,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1501,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1502,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1503,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1504,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1505,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1506,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1507,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1508,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1509,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1510,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1511,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1512,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1513,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1514,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1515,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1516,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1517,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1518,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1519,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1520,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1521,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1522,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1523,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1524,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1525,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1526,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1527,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1528,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1529,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1530,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1531,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1532,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1533,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1534,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1535,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1536,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1537,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1538,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1539,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1540,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1541,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1542,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1543,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1544,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1545,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1546,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1547,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1548,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1549,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1550,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1551,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1552,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1553,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1554,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1555,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1556,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1557,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1558,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1559,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1560,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1561,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1562,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1563,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1564,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1565,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1566,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1567,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1568,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1569,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1570,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1571,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1572,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1573,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1574,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1575,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1576,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1577,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1578,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1579,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1580,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1581,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1582,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1583,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1584,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1585,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1586,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1587,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1588,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1589,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1590,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1591,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1592,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1593,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1594,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1595,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1596,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1597,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1598,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1599,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1600,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1601,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1602,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1603,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1604,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1605,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1606,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1607,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1608,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1609,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1610,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1611,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1612,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1613,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1614,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1615,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1616,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1617,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1618,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1619,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1620,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1621,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1622,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1623,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1624,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1625,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1626,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1627,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1628,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1629,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1630,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1631,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1632,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1633,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1634,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1635,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1636,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1637,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1638,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1639,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1640,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1641,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1642,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1643,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1644,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1645,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1646,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1647,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1648,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1649,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1650,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1651,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1652,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1653,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1654,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1655,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1656,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1657,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1658,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1659,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1660,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1661,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1662,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1663,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1664,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1665,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1666,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1667,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1668,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1669,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1670,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1671,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1672,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1673,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1674,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1675,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1676,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1677,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1678,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1679,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1680,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1681,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1682,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1683,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1684,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1685,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1686,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1687,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1688,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1689,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1690,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1691,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1692,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1693,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1694,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1695,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1696,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1697,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1698,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1699,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1700,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
+1701,The Dark Knight,Christopher Nolan,-,-,152 min,2008,9.0,84        
+1702,The Lord of the Rings: The Return of the King,Peter Jackson,-,-,201 min,2003,9.0,94        
+1703,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Kemp Powers,Justin K. Thompson,140 min,2023,8.9,86        
+1704,Inception,Christopher Nolan,-,-,148 min,2010,8.8,74        
+1705,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,-,-,178 min,2001,8.8,92        
+1706,The Lord of the Rings: The Two Towers,Peter Jackson,-,-,179 min,2002,8.8,87        
+1707,The Matrix,Lana Wachowski,Lilly Wachowski,-,136 min,1999,8.7,73        
+1708,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,-,-,124 min,1980,8.7,82        
+1709,Soorarai Pottru,Sudha Kongara,-,-,153 min,2020,8.7,-
+1710,Terminator 2: Judgment Day,James Cameron,-,-,137 min,1991,8.6,75        
+1711,Star Wars: Episode IV - A New Hope,George Lucas,-,-,121 min,1977,8.6,90        
+1712,Seven Samurai,Akira Kurosawa,-,-,207 min,1954,8.6,98        
+1713,Harakiri,Masaki Kobayashi,-,-,133 min,1962,8.6,85        
+1714,Sita Ramam,Hanu Raghavapudi,-,-,163 min,2022,8.6,-
+1715,Gladiator,Ridley Scott,-,-,155 min,2000,8.5,67        
+1716,Léon: The Professional,Luc Besson,-,-,110 min,1994,8.5,64        
+1717,Raiders of the Lost Ark,Steven Spielberg,-,-,115 min,1981,8.4,85        
+1718,Spider-Man: Into the Spider-Verse,Bob Persichetti,Peter Ramsey,Rodney Rothman,117 min,2018,8.4,87        
+1719,Avengers: Endgame,Anthony Russo,Joe Russo,-,181 min,2019,8.4,78        
+1720,Aliens,James Cameron,-,-,137 min,1986,8.4,84        
+1721,Oldboy,Park Chan-wook,-,-,120 min,2003,8.4,77        
+1722,The Dark Knight Rises,Christopher Nolan,-,-,164 min,2012,8.4,78        
+1723,Avengers: Infinity War,Anthony Russo,Joe Russo,-,149 min,2018,8.4,68        
+1724,Kaithi,Lokesh Kanagaraj,-,-,145 min,2019,8.4,-
+1725,Asuran,Vetrimaaran,-,-,141 min,2019,8.4,-
+1726,Top Gun: Maverick,Joseph Kosinski,-,-,130 min,2022,8.3,78        
+1727,Heat,Michael Mann,-,-,170 min,1995,8.3,76        
+1728,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,-,-,131 min,1983,8.3,58        
+1729,Princess Mononoke,Hayao Miyazaki,-,-,134 min,1997,8.3,76        
+1730,North by Northwest,Alfred Hitchcock,-,-,136 min,1959,8.3,98        
+1731,Dangal,Nitesh Tiwari,-,-,161 min,2016,8.3,-
+1732,Kantara,Rishab Shetty,-,-,148 min,2022,8.3,-
+1733,K.G.F: Chapter 2,Prashanth Neel,-,-,168 min,2022,8.3,-
+1734,Vikram,Lokesh Kanagaraj,-,-,175 min,2022,8.3,-
+1735,Shershaah,Vishnuvardhan,-,-,135 min,2021,8.3,-
+1736,Raatchasan,Ram Kumar,-,-,170 min,2018,8.3,-
+1737,Indiana Jones and the Last Crusade,Steven Spielberg,-,-,127 min,1989,8.2,65        
+1738,Spider-Man: No Way Home,Jon Watts,-,-,148 min,2021,8.2,71        
+1739,Jurassic Park,Steven Spielberg,-,-,127 min,1993,8.2,68        
+1740,Batman Begins,Christopher Nolan,-,-,140 min,2005,8.2,70        
+1741,1917,Sam Mendes,-,-,119 min,2019,8.2,78        
+1742,Die Hard,John McTiernan,-,-,132 min,1988,8.2,72        
+1743,Kill Bill: Vol. 1,Quentin Tarantino,-,-,111 min,2003,8.2,69        
+1744,V for Vendetta,James McTeigue,-,-,132 min,2005,8.2,62        
+1745,Ran,Akira Kurosawa,-,-,162 min,1985,8.2,97        
+1746,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki,-,-,117 min,2020,8.2,72        
+1747,Gangs of Wasseypur,Anurag Kashyap,-,-,321 min,2012,8.2,89        
+1748,Baahubali 2: The Conclusion,S.S. Rajamouli,-,-,167 min,2017,8.2,-
+1749,Yojimbo,Akira Kurosawa,-,-,110 min,1961,8.2,93        
+1750,Uri: The Surgical Strike,Aditya Dhar,-,-,138 min,2019,8.2,-
